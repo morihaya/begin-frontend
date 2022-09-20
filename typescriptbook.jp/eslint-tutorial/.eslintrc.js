@@ -6,7 +6,7 @@ module.exports = {
     },
     parserOptions: {
         ecmaVersion: "latest",
-        souceType: "module",
+        sourceType: "module",
     },
     rules: {
         "no-console": "error",
